@@ -3,7 +3,7 @@
 \
 Use This In Your Website\
 \
-In <Body> of HTML
+In `<Body>` of HTML
 ```
 <div id ="eCaptcha">
     <div id="einner">
@@ -17,11 +17,11 @@ In <Body> of HTML
         </div>
     </div>
 </div> 
-<script src="eCaptcha.js"></script>
+<script src="https://raw.githubusercontent.com/eCaptcha/eCaptcha/main/eCaptcha.js"></script>
 ```
 \
 \
-In HTML <head> Tag\
+In HTML `<head>` Tag\
 \
 ```
 <link rel="stylesheet" href="https://raw.githubusercontent.com/eCaptcha/eCaptcha/main/eCaptcha.css">
