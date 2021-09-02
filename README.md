@@ -10,7 +10,7 @@ eCaptcha is A New Captcha verification system that uses emojis as a base to find
 The Person Need To Click of Correct Answer to Progess in Verification.\
 
 
-# 🥳Use This In Your Website
+# 🥳Use This In Your Website [New!]
 
 In `<Body>` of HTML
 ```
