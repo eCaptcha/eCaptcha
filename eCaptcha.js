@@ -92,4 +92,8 @@ const onClick = (event) => {
   }
   window.addEventListener('click', onClick);
 
+  /*-----------CopyRight--------------*/
+
+  document.getElementById("elink").innerHTML = "©️Coyrights 2021 eCaptha";
+
 
