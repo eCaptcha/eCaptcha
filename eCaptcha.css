@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+#eCaptcha{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+}
+.eb{
+  border-radius: 25px;
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 56px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
