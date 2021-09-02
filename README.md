@@ -23,7 +23,7 @@ In `<Body>` of HTML
 \
 In HTML `<head>` Tag\
 \
-\
+
 ```
 <link rel="stylesheet" href="https://raw.githubusercontent.com/eCaptcha/eCaptcha/main/eCaptcha.css">
 ```
