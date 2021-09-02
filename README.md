@@ -26,12 +26,12 @@ In `<Body>` of HTML
         </div>
     </div>
 </div> 
-<script src="https://raw.githubusercontent.com/eCaptcha/eCaptcha/main/eCaptcha.js"></script>
+<script src="https://ecaptcha.github.io/eCaptcha/eCaptcha.js"></script>
 ```
 \
 \
 In HTML `<head>` Tag
 
 ```
-<link rel="stylesheet" href="https://raw.githubusercontent.com/eCaptcha/eCaptcha/main/eCaptcha.css">
+<link rel="stylesheet" href="https://ecaptcha.github.io/eCaptcha/eCaptcha.css">
 ```
