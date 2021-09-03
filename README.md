@@ -1,6 +1,10 @@
 # eCaptcha
 👷‍♂️ Emoji Verification Captcha For Website
 https://ecaptcha.github.io/eCaptcha/
+
+# 👀 Views
+![](https://komarev.com/ghpvc/?username=eCaptcha/eCaptcha&color=green)
+
 # 📸ScreenShot
 
 ![img](https://cdn.discordapp.com/attachments/881041463834714122/882865855795458098/unknown.png)
