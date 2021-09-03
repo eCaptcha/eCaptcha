@@ -1,5 +1,5 @@
 # eCaptcha
-👷‍♂️ Emoji Verification Captcha For Website
+👷‍♂️ Emoji Captcha Verification For Websites
 https://ecaptcha.github.io/eCaptcha/
 
 # 👀 Views
