@@ -3,7 +3,7 @@
 https://ecaptcha.github.io/eCaptcha/
 
 # 👀 Views
-![](https://komarev.com/ghpvc/?username=eCaptcha/eCaptcha&color=green)
+![](https://komarev.com/ghpvc/eCaptcha/eCaptcha&color=green)
 
 # 📸ScreenShot
 
